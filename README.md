@@ -4,4 +4,10 @@
 
 ![preview img](/preview.png)
 
+## Midtrans
 
+![preview img](/checkout.png)
+
+## Tampilan Sukses
+
+![preview img](/berhasil.png)
